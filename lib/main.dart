@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:project2/BMIScreen.dart';
+import 'package:project2/ResultScreen.dart';
 
 void main() {
   runApp(const MyApp());
